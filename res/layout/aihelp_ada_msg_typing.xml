@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="start" android:orientation="horizontal" android:id="@id/aihelp_admin_place_holder_layout" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="60.0dip" android:layout_weight="4.0" android:layout_marginEnd="60.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/aihelp_iv_portrait" android:visibility="invisible" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginStart="10.0dip" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/aihelp_typing_container" android:background="@drawable/aihelp_bg_msg_agent" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:minWidth="36.0dip" android:minHeight="36.0dip" android:layout_marginStart="10.0dip">
+        <net.aihelp.core.ui.loading.indicator.AIHelpTypingIndicatorView android:id="@id/aihelp_typing_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" app:aihelp_dot_diameter="9.0dip" app:aihelp_dot_padding="9.0dip" />
+    </LinearLayout>
+</LinearLayout>

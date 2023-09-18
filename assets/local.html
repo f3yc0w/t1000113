@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    * {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      -moz-user-select: none;
+      -webkit-user-select: none;
+      -ms-user-select: none;
+      -khtml-user-select: none;
+      user-select: none;
+    }
+
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      -moz-user-select: none;
+      -khtml-user-select: none;
+      user-select: none;
+      /* opacity: 0; */
+      /* animation: page-fade-in 1s forwards; */
+      position: relative;
+      background: black;
+      color: #fff;
+      font-size: 20px;
+    }
+
+    .close_x {
+      position: absolute;
+      right: 30px;
+      top: 10px; 
+      /* background-image: url("https://jqhw-download.racoondigi.cn/campaigns/Assets/common/close_x.png");
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: 100% auto; */
+      z-index: 2;
+    }
+
+    @keyframes page-fade-in {
+      0% {
+        opacity: 0
+      }
+
+      100% {
+        opacity: 1
+      }
+    }
+
+    .default_loading {
+      position: fixed; 
+      padding: 4px 10px;
+      background: rgba(0, 0, 0, .4);
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      margin: auto;
+      border-radius: 5px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 1;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="default_loading">loading...</div>
+  <div class="close_x">close</div>
+</body>
+
+</html>
+<script>
+
+  window.onload = function () {
+    const opendUrl = getQueryString();
+    const close_x = document.querySelector(".close_x");
+    close_x.onclick = close;
+    if (!opendUrl) {
+      return false;
+    }
+    setTimeout(() => {
+//       var frame = document.createElement("iframe");
+//       frame.onload = load;
+//       frame.onerror = error;
+//       frame.src = opendUrl;
+//       document.body.appendChild(frame);
+    }, 1)
+  }
+
+  function getQueryString() {
+    const url = window.location.search;
+    const a = url.substring(url.indexOf("?a=") + 3, url.length); 
+    console.log(decodeURIComponent(a));
+    if(!a){
+      return false;
+    } 
+    return decodeURIComponent(a);
+    // console.log(decodeURIComponent(u) + "?" + p);
+    // if (!u || !p || u == "" || p == "") {
+    //   return false;
+    // }
+    // return decodeURIComponent(u) + "?" + p;
+  }
+
+  function error() {
+    document.write(window.location.href);
+  }
+
+  function load() {
+    const default_loding = document.querySelectorAll(".default_loading");
+    const close_x = document.querySelector(".close_x")
+    default_loding[0].style.display = "none";
+    close_x.style.display = "none";
+  };
+
+  function close() {
+    var a = document.createElement("a");
+    a.setAttribute("href", "uniwebview://close");
+    a.setAttribute("id", "startTelMedicine");
+    // 防止反复添加
+    if (document.getElementById("startTelMedicine")) {
+      document.body.removeChild(document.getElementById("startTelMedicine"));
+    }
+    document.body.appendChild(a);
+    a.click();
+  }
+
+</script>

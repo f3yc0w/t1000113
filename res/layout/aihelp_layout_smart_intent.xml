@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/aihelp_conversation_root" android:background="@android:color/transparent" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/aihelp_ll_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/aihelp_iv_back" android:layout_width="14.0dip" android:layout_height="14.0dip" android:layout_marginRight="8.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_marginEnd="8.0dip" android:layout_alignParentStart="true" app:srcCompat="@drawable/aihelp_svg_ic_back" />
+        <TextView android:id="@id/aihelp_tv_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/aihelp_iv_back" android:layout_centerVertical="true" android:layout_toEndOf="@id/aihelp_iv_back" />
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/aihelp_iv_close" android:layout_width="14.0dip" android:layout_height="14.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" app:srcCompat="@drawable/aihelp_svg_ic_close_dialog" />
+    </RelativeLayout>
+    <net.aihelp.ui.cs.widget.SmartIntentRecyclerView android:id="@id/aihelp_rv_intent" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/aihelp_ll_title" android:overScrollMode="never" />
+</RelativeLayout>

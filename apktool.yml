@@ -1,0 +1,643 @@
+!!brut.androlib.apk.ApkInfo
+apkFileName: com.racoondigi.jqhw.227.apk
+doNotCompress:
+- resources.arsc
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.annotation_annotation-experimental.version
+- META-INF/androidx.appcompat_appcompat-resources.version
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.browser_browser.version
+- META-INF/androidx.cardview_cardview.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core-ktx.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.drawerlayout_drawerlayout.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.legacy_legacy-support-core-ui.version
+- META-INF/androidx.legacy_legacy-support-core-utils.version
+- META-INF/androidx.legacy_legacy-support-v4.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-process.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-service.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+- META-INF/androidx.media_media.version
+- META-INF/androidx.print_print.version
+- META-INF/androidx.recyclerview_recyclerview.version
+- META-INF/androidx.room_room-runtime.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.sqlite_sqlite-framework.version
+- META-INF/androidx.sqlite_sqlite.version
+- META-INF/androidx.startup_startup-runtime.version
+- META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.tracing_tracing.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager2_viewpager2.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/androidx.work_work-runtime.version
+- META-INF/com.android.games.engine.build_fingerprint
+- META-INF/com.android.support_support-v4.version
+- META-INF/com.google.play.common.version
+- META-INF/com.google.play.core.version
+- META-INF/com.google.play.review.version
+- assets/ABPatching.txt
+- assets/UnityServicesProjectConfiguration.json
+- mp4
+- png
+- assets/google-services-desktop.json
+- assets/local.html
+- assets/AssetBundle/Android
+- assets/AssetBundle/animation_chm000
+- assets/AssetBundle/animation_chmc001
+- assets/AssetBundle/animation_chmc003
+- assets/AssetBundle/animation_chmc003-3
+- assets/AssetBundle/animation_chmc004
+- assets/AssetBundle/animation_chmc005
+- assets/AssetBundle/animation_chmc006
+- assets/AssetBundle/animation_chmf001
+- assets/AssetBundle/animation_chmf002
+- assets/AssetBundle/animation_chmf003
+- assets/AssetBundle/animation_chmf004
+- assets/AssetBundle/animation_chmf005
+- assets/AssetBundle/animation_chmf006
+- assets/AssetBundle/animation_chmf007
+- assets/AssetBundle/animation_chmf008
+- assets/AssetBundle/animation_chmf009
+- assets/AssetBundle/animation_chmf010
+- assets/AssetBundle/animation_chmf011
+- assets/AssetBundle/animation_chmf012
+- assets/AssetBundle/animation_chmf013
+- assets/AssetBundle/animation_chmf014
+- assets/AssetBundle/animation_chmg001
+- assets/AssetBundle/animation_chmg002
+- assets/AssetBundle/animation_chmg003
+- assets/AssetBundle/animation_chmg004
+- assets/AssetBundle/animation_chmg005
+- assets/AssetBundle/animation_chmg006
+- assets/AssetBundle/animation_chmg007
+- assets/AssetBundle/animation_chmg008
+- assets/AssetBundle/animation_chmg009
+- assets/AssetBundle/animation_chmg010
+- assets/AssetBundle/animation_chmg011
+- assets/AssetBundle/animation_chmg013
+- assets/AssetBundle/animation_chw000
+- assets/AssetBundle/animation_chwc001
+- assets/AssetBundle/animation_chwc002
+- assets/AssetBundle/animation_chwc003
+- assets/AssetBundle/animation_chwc004
+- assets/AssetBundle/animation_chwf001
+- assets/AssetBundle/animation_chwf002
+- assets/AssetBundle/animation_chwf003
+- assets/AssetBundle/animation_chwf004
+- assets/AssetBundle/animation_chwf005
+- assets/AssetBundle/animation_chwf006
+- assets/AssetBundle/animation_chwg001
+- assets/AssetBundle/animation_chwg002
+- assets/AssetBundle/animation_chwg003
+- assets/AssetBundle/animation_chwg004
+- assets/AssetBundle/animation_chwg005
+- assets/AssetBundle/animation_chwg006
+- assets/AssetBundle/animation_chwg007
+- assets/AssetBundle/animation_chwg008
+- assets/AssetBundle/animation_chwg009
+- assets/AssetBundle/animation_chwg010
+- assets/AssetBundle/animation_chwg011
+- assets/AssetBundle/animation_com
+- assets/AssetBundle/audio_common
+- assets/AssetBundle/audio_guide
+- assets/AssetBundle/audio_inmatch
+- assets/AssetBundle/crc_config.txt
+- assets/AssetBundle/effec_match_en
+- assets/AssetBundle/effect_match
+- assets/AssetBundle/effect_match_mat
+- assets/AssetBundle/effect_training
+- assets/AssetBundle/effect_ui_gift
+- assets/AssetBundle/effect_ui_player
+- assets/AssetBundle/font
+- assets/AssetBundle/i2language
+- assets/AssetBundle/map_config.txt
+- assets/AssetBundle/prefab_actor_mc_001
+- assets/AssetBundle/prefab_actor_mc_002
+- assets/AssetBundle/prefab_actor_mc_003
+- assets/AssetBundle/prefab_actor_mc_004
+- assets/AssetBundle/prefab_actor_mc_005
+- assets/AssetBundle/prefab_actor_mc_006
+- assets/AssetBundle/prefab_actor_mf_001
+- assets/AssetBundle/prefab_actor_mf_002
+- assets/AssetBundle/prefab_actor_mf_003
+- assets/AssetBundle/prefab_actor_mf_004
+- assets/AssetBundle/prefab_actor_mf_005
+- assets/AssetBundle/prefab_actor_mf_006
+- assets/AssetBundle/prefab_actor_mf_007
+- assets/AssetBundle/prefab_actor_mf_008
+- assets/AssetBundle/prefab_actor_mf_009
+- assets/AssetBundle/prefab_actor_mf_010
+- assets/AssetBundle/prefab_actor_mf_011
+- assets/AssetBundle/prefab_actor_mf_012
+- assets/AssetBundle/prefab_actor_mf_013
+- assets/AssetBundle/prefab_actor_mf_014
+- assets/AssetBundle/prefab_actor_mg_001
+- assets/AssetBundle/prefab_actor_mg_002
+- assets/AssetBundle/prefab_actor_mg_003
+- assets/AssetBundle/prefab_actor_mg_004
+- assets/AssetBundle/prefab_actor_mg_005
+- assets/AssetBundle/prefab_actor_mg_006
+- assets/AssetBundle/prefab_actor_mg_007
+- assets/AssetBundle/prefab_actor_mg_008
+- assets/AssetBundle/prefab_actor_mg_009
+- assets/AssetBundle/prefab_actor_mg_010
+- assets/AssetBundle/prefab_actor_mg_011
+- assets/AssetBundle/prefab_actor_mg_012
+- assets/AssetBundle/prefab_actor_mg_013
+- assets/AssetBundle/prefab_actor_mg_014
+- assets/AssetBundle/prefab_actor_mg_015
+- assets/AssetBundle/prefab_actor_uniform
+- assets/AssetBundle/prefab_actor_wc_001
+- assets/AssetBundle/prefab_actor_wc_002
+- assets/AssetBundle/prefab_actor_wc_003
+- assets/AssetBundle/prefab_actor_wc_004
+- assets/AssetBundle/prefab_actor_wf_001
+- assets/AssetBundle/prefab_actor_wf_002
+- assets/AssetBundle/prefab_actor_wf_003
+- assets/AssetBundle/prefab_actor_wf_004
+- assets/AssetBundle/prefab_actor_wf_005
+- assets/AssetBundle/prefab_actor_wf_006
+- assets/AssetBundle/prefab_actor_wf_007
+- assets/AssetBundle/prefab_actor_wg_001
+- assets/AssetBundle/prefab_actor_wg_002
+- assets/AssetBundle/prefab_actor_wg_003
+- assets/AssetBundle/prefab_actor_wg_004
+- assets/AssetBundle/prefab_actor_wg_005
+- assets/AssetBundle/prefab_actor_wg_006
+- assets/AssetBundle/prefab_actor_wg_007
+- assets/AssetBundle/prefab_actor_wg_008
+- assets/AssetBundle/prefab_actor_wg_009
+- assets/AssetBundle/prefab_actor_wg_010
+- assets/AssetBundle/prefab_actor_wg_011
+- assets/AssetBundle/prefab_ai
+- assets/AssetBundle/prefab_fashion
+- assets/AssetBundle/prefab_ftue
+- assets/AssetBundle/prefab_materials
+- assets/AssetBundle/prefab_novice_show
+- assets/AssetBundle/prefab_other
+- assets/AssetBundle/prefab_panel_bg
+- assets/AssetBundle/prefab_panel_bundle
+- assets/AssetBundle/prefab_panel_career
+- assets/AssetBundle/prefab_panel_chest
+- assets/AssetBundle/prefab_panel_inmatch
+- assets/AssetBundle/prefab_panel_lobby
+- assets/AssetBundle/prefab_panel_login
+- assets/AssetBundle/prefab_panel_matchloading
+- assets/AssetBundle/prefab_panel_myplayer
+- assets/AssetBundle/prefab_panel_players
+- assets/AssetBundle/prefab_panel_preloading
+- assets/AssetBundle/prefab_panel_season
+- assets/AssetBundle/prefab_ui_portrait_frame
+- assets/AssetBundle/resources_host
+- assets/AssetBundle/resources_wrapper
+- assets/AssetBundle/scene_1
+- assets/AssetBundle/scene_1_opening
+- assets/AssetBundle/scene_2
+- assets/AssetBundle/scene_2_opening
+- assets/AssetBundle/scene_3
+- assets/AssetBundle/scene_3_opening
+- assets/AssetBundle/scene_4
+- assets/AssetBundle/scene_4_opening
+- assets/AssetBundle/scene_5
+- assets/AssetBundle/scene_5_opening
+- assets/AssetBundle/scene_game
+- assets/AssetBundle/scene_login
+- assets/AssetBundle/scene_t
+- assets/AssetBundle/scene_t_opening
+- assets/AssetBundle/setting_animator
+- assets/AssetBundle/shader
+- assets/AssetBundle/ui_animator_panel
+- assets/AssetBundle/ui_bg_ladder
+- assets/AssetBundle/ui_bg_login
+- assets/AssetBundle/ui_bg_panel
+- assets/AssetBundle/ui_bg_training
+- assets/AssetBundle/ui_icon_achievement
+- assets/AssetBundle/ui_icon_char_portrait
+- assets/AssetBundle/ui_icon_dailytask
+- assets/AssetBundle/ui_icon_fahsion
+- assets/AssetBundle/ui_icon_gift
+- assets/AssetBundle/ui_icon_goods
+- assets/AssetBundle/ui_icon_grade
+- assets/AssetBundle/ui_icon_item
+- assets/AssetBundle/ui_icon_portrait_frame
+- assets/AssetBundle/ui_icon_skill
+- assets/AssetBundle/ui_icon_uniform
+- assets/AssetBundle/ui_textuer_topup01
+- assets/AssetBundle/ui_texture_bg
+- assets/AssetBundle/ui_texture_bg_5
+- assets/AssetBundle/ui_texture_career
+- assets/AssetBundle/ui_texture_chest
+- assets/AssetBundle/ui_texture_common
+- assets/AssetBundle/ui_texture_game
+- assets/AssetBundle/ui_texture_global
+- assets/AssetBundle/ui_texture_levelup
+- assets/AssetBundle/ui_texture_lobby
+- assets/AssetBundle/ui_texture_login
+- assets/AssetBundle/ui_texture_mainmenu
+- assets/AssetBundle/ui_texture_matchloading
+- assets/AssetBundle/ui_texture_myplayer
+- assets/AssetBundle/ui_texture_recharge
+- assets/AssetBundle/ui_texture_season_card
+- assets/AssetBundle/ui_texture_settings
+- assets/AssetBundle/ui_texture_shop
+- assets/AssetBundle/ui_texture_training
+- assets/AssetBundle/aot/aot
+- assets/AssetBundle/aot/aot_dll
+- assets/AssetBundle/season/crc_config.txt
+- assets/AssetBundle/season/map_config.txt
+- assets/AssetBundle/season/season
+- assets/AssetBundle/season/season_bg_2023-08
+- assets/AssetBundle/season/season_bg_2023-09
+- assets/AssetBundle/season/season_char_202212
+- assets/AssetBundle/season/season_char_202301
+- assets/AssetBundle/season/season_char_202302
+- assets/AssetBundle/season/season_char_202304
+- assets/AssetBundle/season/season_char_202305
+- assets/AssetBundle/season/season_char_202306
+- assets/AssetBundle/season/season_config
+- assets/AssetBundle/season/season_fashion_202212
+- assets/AssetBundle/season/season_fashion_202301
+- assets/AssetBundle/season/season_fashion_202302
+- assets/AssetBundle/season/season_fashion_202303
+- assets/AssetBundle/season/season_fashion_202305
+- assets/AssetBundle/season/season_fashion_202306
+- assets/AssetBundle/season/season_fashion_202307
+- assets/AssetBundle/season/season_fashion_202308
+- assets/AssetBundle/season/season_fashion_202309
+- assets/AssetBundle/season/season_fix
+- assets/AssetBundle/season/season_hotfix_dll
+- assets/AssetBundle/season/season_icon_202211
+- assets/AssetBundle/season/season_icon_202212
+- assets/AssetBundle/season/season_icon_202301
+- assets/AssetBundle/season/season_icon_202302
+- assets/AssetBundle/season/season_icon_202303
+- assets/AssetBundle/season/season_icon_202304
+- assets/AssetBundle/season/season_icon_202305
+- assets/AssetBundle/season/season_icon_202306
+- assets/AssetBundle/season/season_icon_202307
+- assets/AssetBundle/season/season_icon_202308
+- assets/AssetBundle/season/season_icon_202309
+- assets/AssetBundle/season/season_panel
+- assets/AssetBundle/season/season_portrait_frame_202212
+- assets/AssetBundle/season/season_portrait_frame_202301
+- assets/AssetBundle/season/season_portrait_frame_202302
+- assets/AssetBundle/season/season_portrait_frame_202303
+- assets/AssetBundle/season/season_portrait_frame_202304
+- assets/AssetBundle/season/season_portrait_frame_202308
+- assets/PrivacyPolicy/privacy_policy.html
+- assets/PrivacyPolicy/privacy_policy@en.html
+- assets/PrivacyPolicy/privacy_policy@zh-TW.html
+- assets/bin/Data/0000000000000000f000000000000000
+- assets/bin/Data/018fe741dec71f14bb43801a31a07303
+- assets/bin/Data/01a6cb110a0ca4c92b16a4c66e52242d
+- assets/bin/Data/01e0386bc3c5b2f45b5b2735939daa3f
+- assets/bin/Data/049d9e75e07674a78a703cf1203c07dd
+- assets/bin/Data/04bf7492cff9749e48ecac9846d9708d
+- assets/bin/Data/058a572e30b2d446bade2dda32bcef0f
+- assets/bin/Data/05afe1e2da9484c1f9317f48d5edb58c
+- assets/bin/Data/06b3773ea97279445ace9cc180276028
+- assets/bin/Data/0917f634da79a4983ad78bac83d5a715
+- assets/bin/Data/0a6de74b6cfa9440182f8f56e4a0e4f1
+- assets/bin/Data/0ff5ba6aa9b08494bb14a8728ee51d9c
+- assets/bin/Data/128e987d567d4e2c824d754223b3f3b0
+- assets/bin/Data/12a3fb1b1c5b0274b8b2e0e629fc8577
+- assets/bin/Data/12bdce05203beaf459bd4a8fb1ec6a22
+- assets/bin/Data/130ba54b2534c434ea493abb9de519e4
+- assets/bin/Data/15262d436ecc1d94495b2b362c66b715
+- assets/bin/Data/193fe1cf1a44fb34998c29e7dca7f6b0
+- assets/bin/Data/1cb716be5dc9d4230ada327d9468ff41
+- assets/bin/Data/1de3c566a6c8c405b9f6f453137273ec
+- assets/bin/Data/1df272a1da1d6814eb2be42cad7516f2
+- assets/bin/Data/1e3b057af24249748ff873be7fafee47
+- assets/bin/Data/1e3c311fc27694a419baca451fc975d1
+- assets/bin/Data/1e77a61398e124a76b923c022c457849
+- assets/bin/Data/1effe93faac204f58b2ceada2e100002
+- assets/bin/Data/1f88717296891493caa94816c31e30e7
+- assets/bin/Data/2254a0e5c700e144c8d0b251773586df
+- assets/bin/Data/227ca2d48b37aca4a9af57089dd307d6
+- assets/bin/Data/229baf997355a43cda580dd4cf86b71e
+- assets/bin/Data/23b4a4376aef741adb8af6181a675fb9
+- assets/bin/Data/24cdcc62a1347e24fa38e9af90dced76
+- assets/bin/Data/27f38c2393d5cc64881d0ebc28644b5b
+- assets/bin/Data/2ac3863d175db3e4e83fa99b623116c5
+- assets/bin/Data/2c01151c3a396448db6dc866920d49dd
+- assets/bin/Data/2e498d1c8094910479dc3e1b768306a4
+- assets/bin/Data/2f559a345557ed24eb6cc977b34b1f0e
+- assets/bin/Data/2feb5b71ce700ab4c9be55913f772453
+- assets/bin/Data/31252f05c22479f42ae9e4935dc52036
+- assets/bin/Data/32e10084028964e6188fdda2564f8eb4
+- assets/bin/Data/3315e28a11c7e4975a7e937bcda98936
+- assets/bin/Data/3386ea0b2cb444db083c91153e08af08
+- assets/bin/Data/345927dde3348c841874afc67ad34e69
+- assets/bin/Data/35befae6315042a489cca37f35cda560
+- assets/bin/Data/35dcfe58e964e4c3b840211d4513a140
+- assets/bin/Data/36435693a5c13ad45aee44ebeb29b689
+- assets/bin/Data/398fea060d6074c11a41ba8eb7d2b529
+- assets/bin/Data/3aad51b67d2644e1d864cd0b5ce69c9e
+- assets/bin/Data/3c654de0a221cc84db32f82f8f2afef2
+- assets/bin/Data/3cbd2cd86a753469da6f6f3375ed033e
+- assets/bin/Data/3f5b5dff67a942289a9defa416b206f3
+- assets/bin/Data/3fca7e25a6c78a04fa177c43853c24d6
+- assets/bin/Data/4016620c77806cc49ba9b406afabe797
+- assets/bin/Data/4118a023d7fc21d4dbe8e400b6e0d420
+- assets/bin/Data/412982170d4b49a4cae8e89a557ff731
+- assets/bin/Data/4270bdeec2f21d942a9fef41898b4863
+- assets/bin/Data/4270bdeec2f21d942a9fef41898b4863.resource
+- assets/bin/Data/4397ec772c2d41e46a9766cf46b8bec6
+- assets/bin/Data/45f5e400febb6b94397415240321f588
+- assets/bin/Data/4628dae081db40f4fb93c1f305ff2497
+- assets/bin/Data/4707472814fc4f846b0d3f36182861e6
+- assets/bin/Data/47198bbf0b2a44882aceef6af17a467d
+- assets/bin/Data/4841b87b13a684649aab9de0e72132b7
+- assets/bin/Data/48bb5f55d8670e349b6e614913f9d910
+- assets/bin/Data/492bfb06acc0e704097ddd34878f4c01
+- assets/bin/Data/4aa0026fc92704140b0f85825ed3fa5f
+- assets/bin/Data/4aae71045430549dba1d4302642d8ade
+- assets/bin/Data/4b7a963b0ddcb452e9b1bfdd92959c8a
+- assets/bin/Data/4e1927657ed4ac845b44125b5df98321
+- assets/bin/Data/4f5545ee32b0f48778b067bd1fcf9d32
+- assets/bin/Data/540c5488d3a964026be9985f98434877
+- assets/bin/Data/54328cae8f89d442da972097ce4f23d9
+- assets/bin/Data/54c945cef1dc44bd992032ed17f23a17
+- assets/bin/Data/54e6dfcbbe85e8043b8f7b9b304339f5
+- assets/bin/Data/55644c5b205da68408b2b3b21cb2a766
+- assets/bin/Data/566675071db986148847d88f5a91ca63
+- assets/bin/Data/56c59f4ecd2348d41abca4cc46a07e11
+- assets/bin/Data/57729312cdd6d4eb685a81a3b0bf8a5b
+- assets/bin/Data/58153d503800254489a046f901eafe82
+- assets/bin/Data/5a54055f67af5fe4480d99335d9795c3
+- assets/bin/Data/5a90642ad30e41a46897efac1aa642da
+- assets/bin/Data/5af78601c28168c44a6b65d7d7cfb9b9
+- assets/bin/Data/5c29deab7a4f84bef88d2bee8be09b5c
+- assets/bin/Data/5dfcf65a553232040bf47e2e5566f916
+- assets/bin/Data/60e964940a24547a585c3ffff7e52e9b
+- assets/bin/Data/6182721c6defb6f4e98f5ac8cb1c356c
+- assets/bin/Data/61952d79b0552f74fa48a9c38ac66cfa
+- assets/bin/Data/632d26701d1f14d9ab2950021e6fed87
+- assets/bin/Data/64b718a275c374adeb9c0407921aaf39
+- assets/bin/Data/65799e06397ba314c842b80c9b80c3cb
+- assets/bin/Data/65d1aa5febef85a48a00b75ba7abb20c
+- assets/bin/Data/68d50d8f366bfdf45b50c222e496a18d
+- assets/bin/Data/68e6db2ebdc24f95958faec2be5558d6
+- assets/bin/Data/698a57138fc7d844da1f0cac92fa8e36
+- assets/bin/Data/69a3d025b33ca1c479da87d948e75f43
+- assets/bin/Data/69c4d69080457a447a8f114a3d172927
+- assets/bin/Data/6a5cba5df35473342b614686c15f8a4c
+- assets/bin/Data/6d8afa97defbd3c4da531126311f040a
+- assets/bin/Data/6e82b666a8d2f4775aa2a9acfdf3c534
+- assets/bin/Data/70ed4587272042e45a86405a1536651f
+- assets/bin/Data/71bb60f95cb866c458d7bc194a88d79a
+- assets/bin/Data/729896902ffea864486da3135d057ea6
+- assets/bin/Data/73f378cafe7b4a745907b70e76bb3259
+- assets/bin/Data/74d1f80fb33f04352bc6c16360477711
+- assets/bin/Data/74f3491dcf1224f0c91238381c035439
+- assets/bin/Data/7735aa00f73d0e64e9931be9610bc892
+- assets/bin/Data/77643996218224478a471439e0ea5fb4
+- assets/bin/Data/778b25d4a5a99264eb10bedacf474461
+- assets/bin/Data/7817b4ca15039bf458d8bf55a756caad
+- assets/bin/Data/7923d23155439434784e9755d1e60812
+- assets/bin/Data/79459efec17a4d00a321bdcc27bbc385
+- assets/bin/Data/7a78f67526578ab409a01e0672fa5d35
+- assets/bin/Data/7e86e0b9dab6441b2a8c2787c90d22aa
+- assets/bin/Data/7f39a07505493c248b3129e08feb50c4
+- assets/bin/Data/802ada9f676280e469941c886fda1acc
+- assets/bin/Data/804ddb2aaa670b14a8a4b471b304d5af
+- assets/bin/Data/81049b81c2b0c2142be91c25eb466ecc
+- assets/bin/Data/819a037846f8f8041b5aee0b125616c6
+- assets/bin/Data/825cb444e111842cf97788cbb7583edd
+- assets/bin/Data/8302ec815182af74bb21ebf76a4643e1
+- assets/bin/Data/84c84ee93ec484bdda371ffbdebfcc7c
+- assets/bin/Data/84e30def715374694bafda86fc50dcb6
+- assets/bin/Data/85187c2149c549c5b33f0cdb02836b17
+- assets/bin/Data/855eae39e9698944daf581d77f6cef3c
+- assets/bin/Data/85cecc4983ce64aec8c1aa3d8fe21d7f
+- assets/bin/Data/86c922a90593e4264b170d073f6970f7
+- assets/bin/Data/87e96283e85053343bc47c9691614f7c
+- assets/bin/Data/8b3ad70d6777ecb4182ce811852c1b36
+- assets/bin/Data/8bb4c48417f47491bbf1be3b29a856a9
+- assets/bin/Data/8bef6179fcd26aa4c89b766c6b95490a
+- assets/bin/Data/8cfad23925d468e42a4b069b9bada02d
+- assets/bin/Data/8d381da33753b2246bbc5dcdc7740e4b
+- assets/bin/Data/8d477e8a90eb6384882420ca937e62b2
+- assets/bin/Data/8d72e341244c44ca1a9a8dae5020a88f
+- assets/bin/Data/8ebaafdbf44b0b9489f20bc27374d187
+- assets/bin/Data/8f586378b4e144a9851e7b34d9b748ee
+- assets/bin/Data/8f7115ef5a3ecfd42935c3ff54434ae8
+- assets/bin/Data/90a7127d04aedcf448351fe62cf9185c
+- assets/bin/Data/912b780ca52bdd34cb09f7658661f283
+- assets/bin/Data/9213aa110b4ba4d91a062c5c0fe4f45f
+- assets/bin/Data/94aad838a87c54e1b89e9ef47ecad5bf
+- assets/bin/Data/95799cb614cdf134f9b3773aaf92808d
+- assets/bin/Data/95b0eae7d4e35f4469715f6c3022fff8
+- assets/bin/Data/95be40883626e6c4b82ff9226e71a902
+- assets/bin/Data/975a91ee935da4d9c8a3e807fecd8047
+- assets/bin/Data/9870ca7379a4f4a56b2067fec77d1883
+- assets/bin/Data/992a968e1853db640b4003d82c777e5b
+- assets/bin/Data/9a639820556503347ad0d4727ba857b9
+- assets/bin/Data/9d1e8c8488c33e243b7975ac76e81c52
+- assets/bin/Data/9e05f05f4a331bc45a04832062650a9e
+- assets/bin/Data/9f35a23ff16561247a1faf0a33167694
+- assets/bin/Data/RuntimeInitializeOnLoads.json
+- assets/bin/Data/ScriptingAssemblies.json
+- assets/bin/Data/a02a7d8c237544f1962732b55a9aebf1
+- assets/bin/Data/a187246822bbb47529482707f3e0eff8
+- assets/bin/Data/a1931bf8a1579944dbb313c72ee8a8a9
+- assets/bin/Data/a28ebc0416ad1c9469a75c8fddd80498
+- assets/bin/Data/a4a883b00d5a03c4191f41d61ff430fe
+- assets/bin/Data/a69699f941db39148aed187a0ef90381
+- assets/bin/Data/a972897c50e224ec0ac815bba981d0b5
+- assets/bin/Data/a9bfbac9e4b1346fc99e5496c751d43e
+- assets/bin/Data/aa0093754890d1d4982197dedc160551
+- assets/bin/Data/aadf6a8ae2ed13c409159fb3c7554fe3
+- assets/bin/Data/ab366828b8a7ca5499aa7dcfbd5d695d
+- assets/bin/Data/ad8ec17e194f9114aa054c91edd0acb4
+- assets/bin/Data/addfa6fc5c2d56641b5ebed82ce633cd
+- assets/bin/Data/aec283471e5564e86994b1653e1c4629
+- assets/bin/Data/afbf31bcca2a39246b237577793d4845
+- assets/bin/Data/b00839345fed0ae4ca256ab2142e13fa
+- assets/bin/Data/b0597b3e0426cc7488a941293f399493
+- assets/bin/Data/b1d817c04f9994bf5a2b0dd93a2cf38a
+- assets/bin/Data/b24f1cf6bcb7c46dfac051fc6a64eadc
+- assets/bin/Data/b5dabe9c9fe124844be70754acb16760
+- assets/bin/Data/b9c6457e1974458429cfceea9e50b063
+- assets/bin/Data/bb922ebadcf76e448ab80c022bb9d6fc
+- assets/bin/Data/bbfa09067dba94b6399b7a895bbd5963
+- assets/bin/Data/bc1ede39bf3643ee8e493720e4259791
+- assets/bin/Data/bd755c6631de9b64f85257f46f8719f6
+- assets/bin/Data/be316fa0cb281b241bb2f1e1a00c55c3
+- assets/bin/Data/be316fa0cb281b241bb2f1e1a00c55c3.resource
+- assets/bin/Data/bf25855d184b6478ea3b780171623f4d
+- assets/bin/Data/c05f77e0152817e4f83f592110846dbb
+- assets/bin/Data/c0aa2cffa31cfed4a8f5c569e7172065
+- assets/bin/Data/c1c17bd83afe202429954e1b34d86faa
+- assets/bin/Data/c3fdaef179f0ad0448d330d74232e520
+- assets/bin/Data/c41005c129ba4d66911b75229fd70b45
+- assets/bin/Data/c6c8d34062cdd472cbaed9d3e75032f5
+- assets/bin/Data/c8cc5a4b42ff80a4682b226de98bf249
+- assets/bin/Data/cb854b0a14b9eea4f8e9d47004dcb242
+- assets/bin/Data/cbbf740e9c8644e8492d08b1a3fd0203
+- assets/bin/Data/ccad9332780b44e92b5fcb5229f4141c
+- assets/bin/Data/cd7b25eab92023045b28ec13a15db415
+- assets/bin/Data/cf81c85f95fe47e1a27f6ae460cf182c
+- assets/bin/Data/d1085d25f9ef09b4c91188f9f99f37a2
+- assets/bin/Data/d17a98d19ada34bb7b4f86130e590159
+- assets/bin/Data/d3686533aff0e2b4bac7a2a7faf73f7a
+- assets/bin/Data/d40d662735218574c977e0d3b63b3e96
+- assets/bin/Data/d4d3cb9e16d7545cd8f2943725aebdcc
+- assets/bin/Data/d52c8a163c90a44a9944a3d5d0a37c6f
+- assets/bin/Data/d54a7866c9cbb244983b5ac8a4658c0c
+- assets/bin/Data/d6c0182cddef7a546bbd9006d25a16c1
+- assets/bin/Data/d82c1b31c7e74239bff1220585707d2b
+- assets/bin/Data/d88e48e8758880b4ab880132245c1545
+- assets/bin/Data/d89e26ff56ad04c97a5d1b101227d8d4
+- assets/bin/Data/d90f7044dab0744d0b42b430395994b4
+- assets/bin/Data/dad47132c9bb64a1b8189b964efbd372
+- assets/bin/Data/db967af71da0c1f40aa19ba96bc60664
+- assets/bin/Data/dd89cf5b9246416f84610a006f916af7
+- assets/bin/Data/de74900b4eed83546b1891fcbfaf62bd
+- assets/bin/Data/df324828e60ea4588a0b066a45c082c1
+- assets/bin/Data/dfd71a03722781a4d871f01b8e1bb7e7
+- assets/bin/Data/dffef66376be4fa480fb02b19edbe903
+- assets/bin/Data/e008073026fa76d43a47c376ff6c3aa4
+- assets/bin/Data/e19588c8b62184fecbcdd6f5bf907534
+- assets/bin/Data/e19afc45b761cab4ab6f587f51f841e9
+- assets/bin/Data/e1c1ea046134cc44ea7eed7b158219e9
+- assets/bin/Data/e2c1011f5ce9e074d80c9b708c4f5727
+- assets/bin/Data/e3265ab4bf004d28a9537516768c1c75
+- assets/bin/Data/e32c6243426d1774e8caacaf20433a7f
+- assets/bin/Data/e369f12de7be4488c8a7e427ec208fe2
+- assets/bin/Data/e3df80686590e444fbb87e87ed40ecc4
+- assets/bin/Data/e5a069457bd344391acd5af227c0ce11
+- assets/bin/Data/e694fa934b6db4a00b8d4b9887115332
+- assets/bin/Data/e6d839dbf94ef4349862a3c275fff5b2
+- assets/bin/Data/e73a58f6e2794ae7b1b7e50b7fb811b0
+- assets/bin/Data/ed7300bee0a313f4f8b879723666d20e
+- assets/bin/Data/efd6c963b96631a428461d5f3957acb7
+- assets/bin/Data/f32079bbb2560394abb63e40e1d53da7
+- assets/bin/Data/f3448bca33c344510a83498cc9620a63
+- assets/bin/Data/f35019bbb2560394aac63e40e1d98da7
+- assets/bin/Data/f5d9769e269fb1246b74d40ef4f3d900
+- assets/bin/Data/f5e95a6a4248649f7ac2ac6127ca0dd1
+- assets/bin/Data/f65ebd3db9df34222b24b0b7b2b752b2
+- assets/bin/Data/f72f119b41fb44dc1b9472036bfe2519
+- assets/bin/Data/f7a1319a0d3863c4788319a3210510a2
+- assets/bin/Data/f7ada0af4f174f0694ca6a487b8f543d
+- assets/bin/Data/f952c082cb03451daed3ee968ac6c63e
+- assets/bin/Data/f9bccdf9387c20f4ebb647274ab6d1fb
+- assets/bin/Data/f9f51999155859b419ff715c8127688a
+- assets/bin/Data/fade42e8bc714b018fac513c043d323b
+- assets/bin/Data/fbca2e0a43ca84a4399e4cfdb286a717
+- assets/bin/Data/fd0e85a297bc94aa79b89818951a3e33
+- assets/bin/Data/fd6527219677b0d48ae862178f17916f
+- assets/bin/Data/fdb8923ad34724c378842380b20ab526
+- assets/bin/Data/fdd6d36bfa4c41c4f988be3be486b5f8
+- assets/bin/Data/fe393ace9b354375a9cb14cdbbc28be4
+- assets/bin/Data/unity_app_guid
+- assets/tuningfork/dev_tuningfork_fidelityparams_1.bin
+- assets/tuningfork/dev_tuningfork_fidelityparams_2.bin
+- assets/tuningfork/dev_tuningfork_fidelityparams_3.bin
+- assets/tuningfork/dev_tuningfork_fidelityparams_4.bin
+- assets/tuningfork/dev_tuningfork_fidelityparams_5.bin
+- assets/tuningfork/dev_tuningfork_fidelityparams_6.bin
+- mp3
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+resourcesAreCompressed: false
+sdkInfo:
+  minSdkVersion: '22'
+  targetSdkVersion: '33'
+sharedLibrary: false
+sparseResources: true
+unknownFiles:
+  billing.properties: '8'
+  core-common.properties: '8'
+  firebase-abt.properties: '8'
+  firebase-analytics.properties: '8'
+  firebase-annotations.properties: '8'
+  firebase-auth-interop.properties: '8'
+  firebase-auth.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-config.properties: '8'
+  firebase-crashlytics-ndk.properties: '8'
+  firebase-crashlytics.properties: '8'
+  firebase-datatransport.properties: '8'
+  firebase-dynamic-links.properties: '8'
+  firebase-encoders-json.properties: '8'
+  firebase-encoders-proto.properties: '8'
+  firebase-encoders.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-installations-interop.properties: '8'
+  firebase-installations.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  firebase-messaging.properties: '8'
+  firebase-perf.properties: '8'
+  play-services-ads-base.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-ads-lite.properties: '8'
+  play-services-ads.properties: '8'
+  play-services-appset.properties: '8'
+  play-services-auth-api-phone.properties: '8'
+  play-services-auth-base.properties: '8'
+  play-services-auth.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-clearcut.properties: '8'
+  play-services-cloud-messaging.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-phenotype.properties: '8'
+  play-services-safetynet.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  protolite-well-known-types.properties: '8'
+  review.properties: '8'
+  transport-api.properties: '8'
+  transport-backend-cct.properties: '8'
+  transport-runtime.properties: '8'
+  user-messaging-platform.properties: '8'
+  stamp-cert-sha256: '8'
+  google/protobuf/any.proto: '8'
+  google/protobuf/api.proto: '8'
+  google/protobuf/empty.proto: '8'
+  google/protobuf/field_mask.proto: '8'
+  google/protobuf/source_context.proto: '8'
+  google/protobuf/struct.proto: '8'
+  google/protobuf/timestamp.proto: '8'
+  google/protobuf/type.proto: '8'
+  google/protobuf/wrappers.proto: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+  xml/file_paths.xml: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.8.1
+versionInfo:
+  versionCode: '227'
+  versionName: 1.5.3

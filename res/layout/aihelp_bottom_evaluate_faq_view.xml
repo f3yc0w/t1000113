@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat android:gravity="center" android:orientation="horizontal" android:id="@id/aihelp_bottom_view_container" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:id="@id/aihelp_ll_evaluate_faq" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <net.aihelp.ui.widget.AIHelpButton android:textColor="@android:color/white" android:id="@id/aihelp_btn_un_helpful" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="@string/aihelp_faq_unhelpful" android:layout_marginEnd="20.0dip" />
+        <net.aihelp.ui.widget.AIHelpButton android:textColor="@android:color/white" android:id="@id/aihelp_btn_helpful" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:text="@string/aihelp_faq_helpful" android:layout_marginStart="20.0dip" />
+    </LinearLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>
